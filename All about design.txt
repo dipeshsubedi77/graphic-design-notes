@@ -1,0 +1,108 @@
+types of design
+
+shape + text + image
+image + text
+text+ shape
+
+
+
+paints -  soft
+
+how to add shape in your design
+
+
+use black and white in fonts.
+
+gradient color and muted color
+
+add muted color in background
+
+
+
+gradient color: shape ma color = background ma color hunxa
+add gradient in  shapes then use balack in background
+shape ma gradient use hunx avne bg plain rakhni
+if i use gradient  in shapes  nd bg  i should use  shadow  in light grey
+i should use 3 shapes to create illusion 
+
+
+color resources:
+color.adobe.com
+gradient color: css .gradient color.css
+dribble .com
+
+color advance
+manipulation add
+
+how to create manipulative ad
+we need to know the situation of product
+color
+perspective
+situation
+
+the secrets of manipulation design
+image saturation down
+every elements should be different
+
+60% to negative space like sky
+10% to subject
+5% to foreground
+remaining background and base
+
+elements saturation low
+
+
+perspective match : angle should be same
+graphic design elements:
+1. optical flairs: light effect sun 
+2. gunch texture
+3. overlay : bokeh overlay : use in soft picture
+             light hits overlays
+             light rays overlays
+             fog overlays
+             old lens scratch
+
+
+
+size of design
+
+want to know size : google it(updated size 2024)
+
+control + n
+EXPORT ALWAYS IN PNG FORM
+COLOR : WEBCOLOR
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

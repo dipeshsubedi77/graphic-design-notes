@@ -1,0 +1,47 @@
+operating system:
+I/O software: it is used for interaction with io devices like  mouse keyboard ,USB devices, printers etc.
+       several commands are made by external available  devices which makes the os function upon each of them one by one.
+I/o software can be organized in three ways:
+1.user level libraries: prove a simple interface to program for i/o function.
+2.kernel level modules: provides device driver to interact with the device independent io modules and device drivers.
+
+
+3. hardware: a layer including  hardware controller and actual hardware which interact with device drivers
+
+
+goals of i/o software:
+1. uniform naming :naming of file system in os in a way that the user doesn't have to be aware of the underlying hardware name.
+
+2.synchronous and asynchronous interaction with CPU: When the CPU is working on some process it goes into the block state when the interrupt occurs. These interrupt is handle by io software either synchronously or asynchronously.
+3. Device independence: It is always preferable to write a program that can open all other I/o devices.
+4. Buffering :It can store a data briefly incase if system cannot store it directly in memory.
+5.Error handling: I/O software used to   handle errors in I/O devices.
+
+Handling I/O:
+1. programmed I/O: Each data item is initiated by  an instruction in the  program. Usually the transfer is formed  CPU, register and memory .This process is constantly monitored by CPU .
+2.interrupt initiated I/O: In programmed io CPU is unnecessarily busy, this approach  use interrupt driver method for data transfer thus minimizing CPU time to result better efficiency.
+
+3.DMA :
+hold = dma le dinxa and 
+
+it is the approach where I/O devices and memory can interact with eachother with very less interaction with CPU.Here DMA takes control of bus to manage data transfer between I/o devices and memory units.
+
+
+
+I/O software layer in OS:
+1. user level io software: make Io call, format I/O
+Device independent :
+1.naming,protection, blocking ,buffering, allocation.
+device drivers: set of device registers, check status,
+
+Interrupt handlers: wake up driver when I/O process completed.
+
+hardware: to perform I/O operation
+  
+
+
+
+
+
+
+       
